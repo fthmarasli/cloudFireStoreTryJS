@@ -1,9 +1,0 @@
-{
-  "name": "js-b7qum6",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "firebase": "^6.0.4",
-    "googleapis": "^40.0.0"
-  }
-}
